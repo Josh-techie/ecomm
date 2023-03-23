@@ -1,6 +1,8 @@
 # ecomm
  My first full fledged e-commerce website (front/backend) no Frameworks used, just native PHP/JS, HTML/CSS and SQL.
  
+## Please Note:
+ The website is not fully uploaded just some parts (but most of the parts are already uploaded).
 # Visit the website live at:
  https://reptilian-topping.000webhostapp.com/
  
