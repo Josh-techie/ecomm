@@ -4,8 +4,10 @@
 # Visit the website live at:
  https://reptilian-topping.000webhostapp.com/
  
+ Main page:
  ![image](https://user-images.githubusercontent.com/95583855/227268014-6820f52a-ede1-4cbc-a33d-d73cd26ef580.png)
 
+Product Search:
 ![image](https://user-images.githubusercontent.com/95583855/227268316-7f6b2f43-7bc8-4aaa-b1b4-8d22bfe0ff30.png)
 
 Login page:
