@@ -20,7 +20,7 @@
 ![image](https://user-images.githubusercontent.com/95583855/227281946-57a2e2a5-2642-45a5-a073-32a9e83b461b.png)
 
 ##Admin Login:
-![image](https://user-images.githubusercontent.com/95583855/227268722-759d3fa0-0992-4021-b666-053a714749c3.png)
+![image](https://user-images.githubusercontent.com/95583855/227282236-c16d675e-169a-4161-80dd-5d0636aa83a8.png)
 
 ##Admin dashboard:
 ![image](https://user-images.githubusercontent.com/95583855/227268833-3b6a657f-a4c8-4879-88d4-5721800629d7.png)
