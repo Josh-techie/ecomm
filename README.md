@@ -1,4 +1,4 @@
-# ecomm
+# Ecomm
  My first full fledged e-commerce website (front/backend) no Frameworks used, just native PHP/JS, HTML/CSS and SQL.
  
 ## Please Note:
